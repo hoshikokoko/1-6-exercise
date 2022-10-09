@@ -3,3 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.box1 {
+  height: 200px;
+  background-position: center; 
+  background-size: cover;
+  background-image: url( img/box1.jpg)
+}
+
+.box2 {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  background-image: url( img/box2.jpg)
+}
