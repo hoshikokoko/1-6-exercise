@@ -6,14 +6,28 @@
 
 .box1 {
   height: 200px;
+  background-image: url( img/box1.jpg);
   background-position: center; 
   background-size: cover;
-  background-image: url( img/box1.jpg)
 }
 
 .box2 {
   height: 200px;
+  background-image: url( img/box2.jpg);
   background-size: cover;
   background-position: center;
-  background-image: url( img/box2.jpg)
+}
+
+.box3 {
+  height: 200px;
+  background-image: url( img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.box4 {
+  height: 200px;
+  background-image: url( img/box4.jpg);
+  background-size: cover;
+  background-position: center;
 }
